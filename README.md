@@ -1,7 +1,7 @@
 
 ### COVID-19 / MLOps
 
-## Performing Instance Segmentation on X-Ray Images with Mask R-CNN
+# Performing Instance Segmentation on X-Ray Images with Mask R-CNN
 
 ### Prediction of COVID-19 infection with Deep Learning using Chest X-Rays
 
